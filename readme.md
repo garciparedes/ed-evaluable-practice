@@ -13,7 +13,6 @@ Contenido
 
 Autores
 ----
-- Fernando Urbón:
 - Sergio García: [garciparedes](https://github.com/garciparedes)
 - Ismael Taboada: [ismtabo](https://github.com/ismtabo)
 
