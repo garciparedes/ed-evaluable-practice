@@ -1,3 +1,6 @@
 [submodule "7119246jpqzqzgqgsxx"]
-	path = overleaf
+	path = overleaf-ed-practice-document
 	url = https://git.overleaf.com/7119246jpqzqzgqgsxx
+[submodule "7400631hjysdxgjfvvk"]
+	path = overleaf-ed-practice-slides
+	url = https://git.overleaf.com/7400631hjysdxgjfvvk
