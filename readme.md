@@ -6,7 +6,9 @@ Proyecto para la asignatura de **Estadística Descriptiva** del **Grado de Ingen
 Contenido
 ----
 
-[Informe](main.pdf)
+[Informe](article.pdf)
+
+[Presentación](slides.pdf)
 
 [Fichero de Datos](acero.sgd)
 
